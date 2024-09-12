@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JESUS ANDRE AGUIRRE CISNEROS</h1>
-<h3 align="center">HOLA XD ESPERO NO REPROBAR</h3>
+<h3 align="center">HOLA XD ESPERO NO REPROBAR, YA REPROBE;C</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
